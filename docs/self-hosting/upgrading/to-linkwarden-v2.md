@@ -66,13 +66,8 @@ If you're seeing a bunch of numbers, you're good. It's the ID of each entity tha
 
 Whether you built the extension from source or downloaded it from the browser, make sure you are using the latest available extension (1.2.0 and above).
 
-:::note
-
-At the time of writing, the extension hasn't been verified by the [Chrome Web Store](https://chrome.google.com/webstore/detail/linkwarden/pnidmkljnhbjfffciajlcpeldoljnidn) yet.
-
-But Firefox is [ready](https://addons.mozilla.org/en-CA/firefox/addon/linkwarden/).
-
-:::
+Users running Chromium-based browsers (MS Edge, Chrome, Brave, Vivaldi etc.) can download the extension [here](https://chromewebstore.google.com/detail/linkwarden/pnidmkljnhbjfffciajlcpeldoljnidn?pli=1).
+Firefox users can download the extension [here](https://addons.mozilla.org/en-US/firefox/addon/linkwarden/).
 
 ## New API structure
 
